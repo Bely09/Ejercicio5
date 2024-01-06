@@ -1,0 +1,7 @@
+public class CodigoCorrecto {
+    public static void main(String[] args) {
+        double data[] = new double[10];
+        data[10] = 100; // El problema es justamente en está línea
+    }
+
+}
